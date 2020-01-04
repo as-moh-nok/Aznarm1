@@ -82,3 +82,13 @@ body {
 a {
     text-decoration: none;
 }
+footer{
+  background-color:rgb(86,170,255);
+  direction: rtl;
+}
+.register_form{
+  margin: 10px ;
+ border: solid;
+padding: 2%;
+ border-radius: 10%;
+}

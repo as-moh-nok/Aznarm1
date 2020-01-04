@@ -58,6 +58,9 @@ background-size: cover;
     direction: rtl;
     text-align: right;
 }
+#all{
+  
+}
 
 /* .vi2{
   background-color: red;
@@ -91,7 +94,9 @@ a {
     text-decoration: none;
 }
 
-
+.vi1{
+  background-color:rgb(255, 216, 0);
+}
 
 #registerbtn{
    
@@ -103,7 +108,9 @@ a {
         margin-top: -56px;
     }
 }
-
+footer{
+  background-color:rgb(86,170,255)
+}
 
 
 html,
