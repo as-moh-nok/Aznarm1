@@ -61,7 +61,10 @@ background-size: cover;
 #all{
   
 }
-
+#tabs{
+  margin: 30px;
+  background-color: blue;
+}
 /* .vi2{
   background-color: red;
 } */
